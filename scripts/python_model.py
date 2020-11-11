@@ -73,7 +73,8 @@ def final_prophet_model(train_data, test_data):
 
     Returns
     -------
-
+    A print statement containing the MAE and RMSE for the train and test set across
+    the horizon period. 
     '''
     # Concatenate train and test data together for final forecast
     all_data = pd.concat([train_data, test_data], ignore_index=True)
