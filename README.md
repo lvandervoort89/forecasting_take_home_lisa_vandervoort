@@ -4,7 +4,7 @@
 Analyze regular motor gasoline retail prices and use Facebook Prophet to find a model to fit the data for the US Foods Take Home assignment.
 
 ## **Approach:**
-A detailed analysis of the data and modeling decisions can be found in forecasting_take_home_lisa_vandervoort.  Additionally, a Jupyter notebook with all scripts and comments on analysis and modeling can be found in forecasting_initial_analysis_and_modeling_lisa_vandervoort.ipynb.  Finally, a final model can be run using the script python_analysis.py.  
+A detailed analysis of the data and modeling decisions can be found in forecasting_take_home_lisa_vandervoort.  Additionally, a Jupyter notebook with all scripts and comments on analysis and modeling can be found in forecasting_initial_analysis_and_modeling_lisa_vandervoort.ipynb.  Finally, a final model can be run using the script python_model.py.  
 
 ## **Featured Techniques:**
 - Exploratory data analysis
